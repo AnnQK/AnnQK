@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @AnnQK
-- 🌱 I’m currently learning Python
+- 👋 hi, I’m @AnnQK
+- 🌱 i’m currently learning html/css
