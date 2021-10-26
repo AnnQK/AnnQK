@@ -1,2 +1,3 @@
-- 👋 hi, I’m @AnnQK
-- 🌱 i’m currently learning javascript
+👋 hi, I’m @AnnQK
+🌱 i’m currently learning everything
+
